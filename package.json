@@ -1,0 +1,13 @@
+{
+  "name": "webp-converter",
+  "version": "1.0.0",
+  "description": "Конвертация изображений в WebP",
+  "main": "to-webp.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node to-webp.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.0"
+  }
+}
